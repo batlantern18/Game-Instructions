@@ -10,3 +10,5 @@ To start the game, you Answer Each Question! If you get the answer correct you m
 MULTIPLAYER GAME
 ================
 This Game is a 2-4 Player Game. Every time someone runs their turn, they must give the other person a try. If you are in a 4 Player Game, please play clockwise!
+
+[**Answer Key**](https://github.com/batlantern18/Game-Instructions/raw/main/Science%20Solar%20Game%20Key.docx)
