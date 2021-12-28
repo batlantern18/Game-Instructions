@@ -1,7 +1,7 @@
     # INSTRUCTIONS
     # Created 12/01/2021 [mm/dd/YYYY]
     # Version: 1.0.0
-    # For more info visit https://github.com/batlantern18
+    # For more info visit https://draf18.github.io
     
 HOW TO PLAY
 ===========
